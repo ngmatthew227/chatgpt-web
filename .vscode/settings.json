@@ -1,4 +1,6 @@
 {
+  "prettier.enable": false,
+  "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
@@ -21,6 +23,7 @@
     "axios",
     "bumpp",
     "chatgpt",
+    "commitlint",
     "esno",
     "GPTAPI",
     "iconify",
@@ -28,6 +31,7 @@
     "OPENAI",
     "pinia",
     "rushstack",
+    "Sider",
     "tailwindcss",
     "unplugin",
     "VITE",
